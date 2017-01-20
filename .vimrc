@@ -29,3 +29,11 @@ set number
 """Use the molokai colorscheme
 """
 colorscheme molokai
+
+"""Set tabs to use 4 spaces
+"""
+set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
+
+"""Set automatic indent
+"""
+set smartindent
